@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fb4a62e-2d66-4bb9-a822-f8fd8553a86c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Semana2/.idea/modules/Curso3Semana2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana2/.idea/modules/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana2/app/.idea/modules/-458699877/Curso3Semana2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana2/app/.idea/modules/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/JavaMailAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/MisContactos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/adaptadores/ContactoAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/adaptadores/PageAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/database/BaseDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/database/Constructorcontactos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/database/ContanteBaseDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/fragment/FragmentReciclerview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/fragment/MascotaFavoritaFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/fragment/ReciclerviewFragmentview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/menus/ActivityAbout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/menus/ActivityContacto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/pojo/Contacto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/presentador/IRecyclerViewPresentador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/presentador/MascotaPresentador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4-master/app/src/main/java/petagram/presentador/RecyclerViewPresentador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle_____idea_libraries_activation_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle_____idea_libraries_additionnal_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle_____idea_libraries_mail_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_0_alpha05_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_rc01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_rc01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__com_mikhaellopez_circularimageview_4_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_61.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/activation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/additionnal.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/libraries/mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/modules/Petagram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/modules/app/Petagram.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/modules/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana4/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[New_Device_1_API_23]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hvEkDKNA6kC8tLXq9dMl7JzsOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_4_API_23" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-23T18:16:53.284Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="algorithm" value="Scalr" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="destination" value="DRAWABLE" />
+    <property name="format" value="PNG" />
+    <property name="lastFolderRoot" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-ldpi" />
+    <property name="method" value="Automatic" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="resolutions" value="MDPI&#10;LDPI&#10;XXHDPI&#10;HDPI&#10;TVDPI&#10;XHDPI&#10;XXXHDPI" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="sourceResolution" value="XHDPI" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amori\Desktop\Curso\Petagram-Persistencia-main\app\src\main\res\drawable-ldpi" />
+      <recent name="C:\Users\amori\Desktop\Curso\Semana4-master\app\src\main\java" />
+      <recent name="C:\Users\USUARIO\Downloads\andr\Petagram fragment\app\src\main\java\com\jhon\petagram\presentador" />
+      <recent name="C:\Users\USUARIO\Downloads\andr\Petagram fragment\app\src\main\java\com\jhon\petagram\basedatos" />
+      <recent name="C:\Users\USUARIO\Downloads\andr\Petagram-master\.idea\libraries" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amori\Desktop\Curso\Petagram-Persistencia-main\app\src\main\res\drawable-xxxhdpi" />
+      <recent name="C:\Users\amori\Desktop\Curso\Petagram-Persistencia-main\app\src\main\res\drawable-xxhdpi" />
+      <recent name="C:\Users\amori\Desktop\Curso\Petagram-Persistencia-main\app\src\main\res\drawable-xhdpi" />
+      <recent name="C:\Users\amori\Desktop\Curso\Petagram-Persistencia-main\app\src\main\res\drawable-mdpi" />
+      <recent name="C:\Users\amori\Desktop\Curso\Petagram-Persistencia-main\app\src\main\res\drawable-ldpi" />
+    </key>
+    <key name="android.template.1776699559">
+      <recent name="com.jhon.petagram" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jhon.petagram.fragment" />
+      <recent name="com.jhon.petagram" />
+    </key>
+    <key name="android.template.-2024310000">
+      <recent name="com.jhon.petagram" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Petagram.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SearchEverywhereConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="TopHitSEContributor" />
+      <filtered-out-file-type name="RecentFilesSEContributor" />
+      <filtered-out-file-type name="ClassSearchEverywhereContributor" />
+      <filtered-out-file-type name="FileSearchEverywhereContributor" />
+      <filtered-out-file-type name="SymbolSearchEverywhereContributor" />
+      <filtered-out-file-type name="RunConfigurationsSEContributor" />
+      <filtered-out-file-type name="ActionSearchEverywhereContributor" />
+      <filtered-out-file-type name="YAMLKeysSearchEverywhereContributor" />
+    </file-type-list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fb4a62e-2d66-4bb9-a822-f8fd8553a86c" name="Default Changelist" comment="" />
+      <created>1600883306481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600883306481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/../Petagram" />
+      <path value="$PROJECT_DIR$/petagram-menus-y-fragments" />
+      <path value="$PROJECT_DIR$/../Semana6" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="158" key="#PSD" timestamp="1603145796213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="158" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1603145796213" />
+    <state x="469" y="266" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601298191909">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="469" y="266" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.860@0.0.1440.860" timestamp="1601298191909" />
+    <state x="525" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1601573712403">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1601573712403" />
+    <state x="571" y="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1603145941777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.860@0.0.1440.860" timestamp="1601573942784" />
+    <state x="571" y="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1603145941777" />
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601010700624">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1601010700624" />
+    <state x="443" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601579624141">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="443" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1601579624141" />
+    <state x="300" y="185" key="AndroidCreateResourceFileDialog" timestamp="1600997346263">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="300" y="185" key="AndroidCreateResourceFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1600997346263" />
+    <state x="614" y="215" key="AndroidCreateXmlResourceDialog" timestamp="1603149438024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="215" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1603149438024" />
+    <state x="533" y="177" key="FileChooserDialogImpl" timestamp="1603148487605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1601580547602" />
+    <state x="533" y="177" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603148487605" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1603150898175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603150898175" />
+    <state x="557" y="117" key="Github.UntrackedFilesDialog" timestamp="1603150227852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603150227852" />
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1603143233236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1601573092423" />
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603143233236" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1603143233236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1601573092422" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603143233236" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1603143233236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1601573092422" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603143233236" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1603143233236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1601573092423" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603143233236" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603151073651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603151073651" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1603148203276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1603148203276" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1600902328674">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1600902328674" />
+    <state x="474" y="0" width="587" height="824" key="find.popup" timestamp="1603146589938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="0" width="587" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603146589938" />
+    <state x="462" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1601509645268">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="462" y="58" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1601509645268" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1601576596155">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1601576596155" />
+    <state x="409" y="172" width="717" height="650" key="search.everywhere.popup" timestamp="1603151027513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1601015071331" />
+    <state x="409" y="172" width="717" height="650" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603151027513" />
+  </component>
+</project>
